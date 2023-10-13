@@ -17,7 +17,7 @@ const PageHeader = () => {
           <Menu />
         </Button>
         <a href="/">
-          <img src={logo} className="h-4" />
+          <img src={logo} className="h-4 " />
         </a>
       </div>
       <form
